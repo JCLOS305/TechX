@@ -56,3 +56,6 @@ Tech-X has strives to constanly grow its inventory and offer a wide range of tec
 
 # Collaborators
 © June 2022 - [Francella Aguilar](https://github.com/fraancellaa), [Julian Esquivel](https://github.com/JulianEsquivelDev) , [Jeancarlos Mulet](https://github.com/JCLOS305) - University of Miami
+
+## Questions
+any question can be sent to jeancarlosmulet@gmail.com or directly to my github.
