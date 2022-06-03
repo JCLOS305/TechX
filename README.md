@@ -1,19 +1,15 @@
 # Tech-X
 
 ## Description
-Tech-X is a shopping site based for the future of tech. Tech-X mainly focuses on the sale of hardware and products for top brands.
+Tech-X is a shopping site based for the future of tech. Tech-X mainly focuses on the sale of hardware, programs, and products of top brands.
 
 ## User Story
-
-Tech X is a shopping site based for the future of tech. Tech X mainly focuses on the sale of hardware and products for top brands.  
 
 Tech X was designed by 3 Full Stack Developers who believed that all tech hardware and products are not as accessible as they need to be. With one goal in mind , Efficiency,  [Francella Aguilar](https://github.com/fraancellaa), [Julian Esquivel](https://github.com/JulianEsquivelDev) , & [Jeancarlos Mulet](https://github.com/JCLOS305) decided that Tech X was needed.
 
 Tech-X sees itself being the most user friendly app in the world. Having a ‘social’ feel where users can comment on products and give each others reviews,
 as well as Tips & Tricks of the trade. 
 Tech-X has strives to constanly grow its inventory and offer a wide range of tech products from at home web development to companies data collection centers.
-
-
 
 
 ## Table of Contents
@@ -54,7 +50,6 @@ Tech-X has strives to constanly grow its inventory and offer a wide range of tec
 
 
 ## Badges
-
 
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
