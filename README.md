@@ -1,7 +1,7 @@
 # Tech-X
 
 ## Description
-Tech-X is a shopping site based for the future of tech. Tech-X mainly focuses on the sale of hardware, programs, and products of top brands.
+Tech-X is an e-commerce site based for the future of tech. Tech-X mainly focuses on the sale of hardware, programs, and products of top brands.
 
 ## User Story
 
